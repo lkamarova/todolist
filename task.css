@@ -1,0 +1,32 @@
+html {
+    color: red;
+}
+div {
+    color: green;
+}
+p {
+    color: yellow;
+}
+img {
+    width: 50px;
+}
+
+.blue {
+    color: #2f5687;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.item {
+    font-size: 24px !important;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.big-item {
+    font-size: 36px;
+}
+
+#last {
+    font-size: 16px;
+}
